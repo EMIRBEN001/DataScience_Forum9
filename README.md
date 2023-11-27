@@ -26,7 +26,7 @@
     point. Until convergence occurs, this process is repeated; the cluster centroid is then the data point that remained stationary 
     following convergence. Following that, the cluster centroids are assigned the data points.</p>
   - Results:
-    - Silhouette Score: 0.584 
+    - Silhouette Score: 0.585 
     - Davies-Bouldin Index: 0.505
     - Rand Score: 0.0146
     - Calinski and Harabasz Score: 1607 
