@@ -29,7 +29,7 @@
     - Silhouette Score: 0.585 
     - Davies-Bouldin Index: 0.505
     - Rand Score: 0.0146
-    - Calinski and Harabasz Score: 1607 
+    - Calinski and Harabasz Score: 1607.39 
 
 ### 3. Agglomerative Clustering
 
